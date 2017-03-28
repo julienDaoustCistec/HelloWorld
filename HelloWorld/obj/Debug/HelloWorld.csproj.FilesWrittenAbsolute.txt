@@ -14,3 +14,5 @@
 /Users/juliendaoust/Projects/HelloWorld/HelloWorld/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/juliendaoust/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.StackPage.xaml
 /Users/juliendaoust/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.StackPage.xaml.g.cs
+/Users/juliendaoust/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.GridPage.xaml
+/Users/juliendaoust/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.GridPage.xaml.g.cs
