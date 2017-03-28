@@ -11,7 +11,7 @@ namespace HelloWorld
 		{
 			InitializeComponent();
 
-			//Grid in code if we don't want to code in XAML the layout//
+			//Layout in code behind if we don't want to code in XAML the layout//
 
 			/*
 			var layout = new StackLayout
